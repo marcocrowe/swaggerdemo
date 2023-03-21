@@ -7,8 +7,8 @@ This is a demo project to show how to use Swagger with Spring Boot. This version
 
 1. Clone the project
 2. Launch the application
-   a. From your VS Code: `Run` -> `Start Debugging`
-   b. From the command line: `mvn spring-boot:run`
+   - From your VS Code: `Run` -> `Start Debugging`
+   - From the command line: `mvn spring-boot:run`
 3. Open swagger on <http://localhost:8080/swagger-ui/index.html>
 
 The dependency to add to your pom.xml is:
