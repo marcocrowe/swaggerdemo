@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"vscjava.vscode-java-pack",
+		"streetsidesoftware.code-spell-checker",
+		"wmaurer.change-case",
+		"maptz.camelcasenavigation",
+		"vmware.vscode-boot-dev-pack",
+		"sonarsource.sonarlint-vscode",
+		"vscode-icons-team.vscode-icons",
+		"davidanson.vscode-markdownlint"
+	]
+}
