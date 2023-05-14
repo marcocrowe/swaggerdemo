@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-SwaggerdemoApplication<swaggerdemo>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "io.gitlab.markcrowe.swaggerdemo.SwaggerdemoApplication",
+			"projectName": "swaggerdemo",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
